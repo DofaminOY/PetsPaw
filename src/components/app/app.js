@@ -19,19 +19,23 @@ export default class App extends Component {
         <div className="Rectangle13" ></div>
         <div className="Rectangle22" ></div>
         <div className="vote-table" ></div>
+        <div className="Rectangle24"></div>
+        <spam className="VOTING">VOTING</spam>
         
         
         <div className="MaskGroup1"></div>
         <div className="Rectangle13a" ></div>
         <div className="Rectangle22a" ></div>
         <div className="pet-breeds" ></div>
-        
+        <div className="Rectangle25"></div>
+        <spam className="BREEDS">BREEDS</spam>
 
         <div className="MaskGroup2"></div> 
         <div className="Rectangle13b" ></div>
         <div className="Rectangle22b" ></div>
         <div className="images-search" ></div>
-        
+        <div className="Rectangle26"></div>
+        <spam className="GALLERY">GALLERY</spam>
         
         <div className="HiIntern">Hi intern!</div>
 
