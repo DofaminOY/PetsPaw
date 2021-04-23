@@ -1,0 +1,21 @@
+
+.rectangle{
+    position: absolute;
+    width: 680px;
+    height: 840px;
+    left: 730px;
+    top: 30px;
+    
+    background: #FBE0DC;
+    border-radius: 20px;
+    }
+    .girl-and-pet{
+        position: absolute;
+        width: 775px;
+        height: 1024px;
+        left: 665px;
+        top: -62px;
+        background: url(https://s3-alpha-sig.figma.com/img/11c3/f947/c693b67beac83b7500dad46c198ecbd4?Expires=1619395200&Signature=glOctVlvJifiFPVsAZ~Tx7oag~sFvWxyhE8ALQ8EjXF9G~ZxfeptmxLUkyvDrWLd8fLebYWKNmjEHSVPgn-mn3FDiszJH85XGkrk4IPlQ5ZIzttldY7z6xP9mginB7zXAZoxgMjIB1RK4D5RHgaArB0kDctZpgsJhH3gLb0rnf81wBRhLJOLDofOKs2IviGsXojakAoQSl7lyU7vUoZq~6ofh5vCIKAFPlILTxp-Ahch2rQy7eLmd81Brqc55-EvOfGoY2HSGjSjwPvgJrWfyy9HXCjKFC2kSN1BHqp4iPnsA8J8uRueq9WM6dzqOumuP45cFKNT4driz2231rNmFw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA);
+        background-size: cover;
+    }
+    

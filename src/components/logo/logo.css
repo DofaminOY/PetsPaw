@@ -1,0 +1,94 @@
+
+.PetsPaw{
+   
+    position: absolute;
+    left: 30.04%;
+    right: 2.26%;
+    top: 26.81%;
+    bottom: 20.87%;
+    
+color:  #1D1D1D;
+       
+}
+.Group25{
+    position: absolute;
+    width: 446px;
+    height: 450px;
+    left: 147px;
+    top: 134px;
+}
+.Group20{
+position: absolute;
+left: 0%;
+right: 77.39%;
+top: 0%;
+bottom: 0%;
+}
+
+.Ellipse4{
+    position: absolute;
+    left: 0%;
+    right: 94.56%;
+    top: 24.05%;
+    bottom: 51.91%;
+    border-radius: 50%;
+    background: #FF868E;
+
+}
+.Ellipse5{
+    position: absolute;
+    left: 13.05%;
+    right: 81.52%;
+    top: 0%;
+    bottom: 75.95%;
+    border-radius: 50%;
+    background: #FF868E;
+}
+.Ellipse6{
+    position: absolute;
+    left: 0%;
+    right: 94.56%;
+    top: 57.71%;
+    bottom: 18.24%;
+    border-radius: 50%;
+    background: #FF868E;
+}
+.Ellipse3{
+    position: absolute;
+    left: 5.44%;
+    right: 89.13%;
+    top: 0%;
+    bottom: 75.95%;
+    border-radius: 50%;
+    background: #FF868E;
+}
+
+.Logo{
+    position: absolute;
+    width: 106.16px;
+    height: 24px;
+    left: 147px;
+    top: 30px;
+}
+
+.Rectangle12{
+
+    position: absolute;
+    left: 4.39%;
+    right: 81.39%;
+    top: 45.67%;
+    bottom: 15.86%;
+    border-radius: 50px 50px 50px 50px;
+    background: #FF868E;
+    transform: rotate(-90deg);
+}
+.Rectangle11{
+    position: absolute;
+    
+    left: 7.39%;
+    right: 77.39%;
+    top: 32.67%;
+    bottom: 28.86%;
+    border-radius: 50px 50px 50px 50px;
+    background: #FF868E;
+}

@@ -1,0 +1,78 @@
+.GALLERY{
+    position: absolute;
+    width: 138px;
+    height: 16px;
+    left: 455px;
+    top: 558px;
+    
+    font-family: Jost;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height, or 133% */
+    
+    text-align: center;
+    letter-spacing: 2px;
+    
+    color: #FF868E;
+}
+
+.Rectangle26{
+    position: absolute;
+    width: 138px;
+    height: 36px;
+    left: 455px;
+    top: 548px;
+    
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+
+
+.MaskGroup2{
+    position: absolute;
+    width: 138px;
+    height: 198px;
+    left: 147px;
+    top: 340px;
+}
+
+
+
+
+.Rectangle22b{
+position: absolute;
+width: 138px;
+height: 198px;
+left: 455px;
+top: 340px;
+
+background: #FFD280;
+border: 4px solid rgba(255, 255, 255, 0.6);
+box-sizing: border-box;
+border-radius: 20px;
+    }
+    
+    
+.Rectangle13b{
+        position: absolute;
+        width: 138px;
+        height: 198px;
+        left: 455px;
+        top: 340px;
+        
+        background: #FFFFFF;
+        border-radius: 20px;
+}
+    
+    .images-search{
+    position: absolute;
+    width: 112px;
+    height: 190px;
+    left: 468px;
+    top: 344px;
+    background: url(https://s3-alpha-sig.figma.com/img/56b8/3235/4af5f1fcb663468ef323a3faba435fdd?Expires=1619395200&Signature=VFUN5y5ZENS62VQJ5T~xiG-JHHiAzw7pY0UWJfWM0eCJMZ~gyaH1bpDXxKYDyD2FKKvZAwdGWb1XXa~U34guol7CIRsy5Pn5GobJ0AotglXrv0Pn9cgzot2cEVZj6WFoHcFQILRzb1KOIOFADiEhfvepQUYga1OGOYK~oqJrYnJjD2bfBJZXUkpqEgGHzW1EV-FKjK3i-pyraPsVe4RZUoXZutLmUG1Sr4PEtfsMVThDIvpSEuxRfwcD2rrYBO7MR4tEGvA5R9EzGWNBOIJnkcCSrFCBUDRLYTeuvJa-UBZ6y2wl11u5MtGs6JD~YwoLR1LUU9sSYkfuuKdszlEdEQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA);
+    background-size: cover; 
+    }
