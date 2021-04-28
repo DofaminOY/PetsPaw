@@ -10,7 +10,7 @@ function Gallery () {
         <div className="Rectangle22b" ></div>
         <div className="images-search" ></div>
         <div className="Rectangle26"></div>
-        <spam className="GALLERY">GALLERY</spam>
+        <div className="GALLERY">GALLERY</div>
         </>
     );
 }

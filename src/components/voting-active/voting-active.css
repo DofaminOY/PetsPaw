@@ -1,0 +1,107 @@
+.Rectangle30Active{
+    position: absolute;
+    width: 680px;
+    height: 782px;
+    left: 730px;
+    top: 100px;
+    
+    background: #FFFFFF;
+    border-radius: 20px;  
+}
+.Rectangle24Active{
+position: absolute;
+width: 40px;
+height: 40px;
+left: 750px;
+top: 120px;
+
+background: #FBE0DC;
+border-radius: 10px;
+}
+.arrowleft1{
+/* arrow left 1 */
+
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 760px;
+top: 130px;
+}
+
+.Vector{
+    /* Vector */
+
+    
+    position: absolute;
+    left: 21.5%;
+    right: 21.5%;
+    top: 0%;
+    bottom: 0%;
+
+    background: #FF868E;
+    background: url('../img/Vector.png');
+    background-size: cover; 
+
+
+}
+.Group27{
+    /* Group 27 */
+
+
+    position: absolute;
+    width: 146px;
+    height: 40px;
+    left: 800px;
+    top: 120px;
+}
+.VOTINGGroup27{
+    /* VOTING */
+
+
+position: absolute;
+width: 86px;
+height: 30px;
+left: 830px;
+top: 125px;
+
+font-family: Jost;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+
+text-align: center;
+letter-spacing: 2px;
+
+color: #FFFFFF;
+}
+.Rectangle24Group27{
+    /* Rectangle 24 */
+
+
+position: absolute;
+width: 146px;
+height: 40px;
+left: 800px;
+top: 120px;
+
+background: #FF868E;
+border-radius: 10px;
+}
+
+.image1VOTING{
+    /* image 1 */
+
+
+position: absolute;
+width: 640px;
+height: 360px;
+left: 750px;
+top: 180px;
+border-radius: 20px;
+background: url("../img/img.png");
+
+background-size: cover; 
+}

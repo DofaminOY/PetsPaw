@@ -1,0 +1,93 @@
+.Group38{
+    /* Group 38 */
+
+
+position: absolute;
+width: 640px;
+height: 60px;
+left: 750px;
+top: 592px;
+}
+.time1{
+    /* 22:35 */
+
+
+position: absolute;
+width: 41px;
+height: 24px;
+left: 775px;
+top: 610px;
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+
+color: #1D1D1D;
+}
+.Rectangle55Group38{
+    /* Rectangle 55 */
+
+
+position: absolute;
+width: 61px;
+height: 30px;
+left: 765px;
+top: 607px;
+
+background: #FFFFFF;
+border-radius: 5px;
+}
+.ImageID1{
+    /* Image ID: fQSunHvl8 was added to Favourites */
+
+
+position: absolute;
+width: 316px;
+height: 24px;
+left: 846px;
+top: 610px;
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+
+color: #8C8C8C;
+}
+.Rectangle54Group38{
+    /* Rectangle 54 */
+
+
+position: absolute;
+width: 640px;
+height: 60px;
+left: 750px;
+top: 592px;
+
+background: #F8F8F7;
+border-radius: 10px;
+}
+.Vector348Group38{
+/* Vector 348 (Stroke) */
+
+
+position: absolute;
+left: 93.75%;
+right: 4.86%;
+top: 68.11%;
+bottom: 29.96%;
+
+background: #FF868E;
+
+background: url("../img/HeartSmall.png");
+
+background-size: cover; 
+
+}

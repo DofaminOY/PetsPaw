@@ -10,7 +10,7 @@ function Breeds () {
         <div className="Rectangle22a"></div>
         <div className="pet-breeds"></div>
         <div className="Rectangle25"></div>
-        <spam className="BREEDS">BREEDS</spam>
+        <div className="BREEDS">BREEDS</div>
         </>
     );
 }

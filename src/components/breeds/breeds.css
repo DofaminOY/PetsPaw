@@ -16,6 +16,7 @@ top: 340px;
 background: #FFFFFF;
 border-radius: 20px;
 }
+
 .Rectangle22a{
     position: absolute;
     width: 138px;
@@ -35,7 +36,7 @@ border-radius: 20px;
     left: 311px;
     top: 357px;
     
-    background: url(https://s3-alpha-sig.figma.com/img/efc0/58ac/6f2210cf70c28b7100c40197ac3b524c?Expires=1619395200&Signature=ZEqY5A7kPRZtzHsOTxy19ovOPhAUFQEF3d22yBW57HeA-t5n~PYquSE8m1kcXdy1ColR2bPEEkbf9ChAcbyyorru8mW9TCkeTGa9Q6DvyYF~vCFs9XZoLCbl9iar8M7-A5m9yHsxLps-a3nS3aeVGrxCgj6LYVHWywexi5MlFttydp3X8HCEjfEjumv85LpJEtLrANlz4siw8wz-dXvxLoHKefnTiLV3shm0mreEVVw7G3csrlBF1YJcewiN5mLdNwPcV8rBBLrWla3ZsFmSaKAWrp8UnRGriswX3CaTmc18nsu60KSzD7DOuWg9iAFAv7Znk4BqLVaSW8C-5cAwvQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA);
+    background: url("../img/pet-breeds.png");
     background-size: cover; 
 }
 
@@ -46,9 +47,10 @@ border-radius: 20px;
     left: 301px;
     top: 548px;
     
-    background: #FF868E;
+    background: #FFFFFF;
     border-radius: 10px;
 }
+
 
 .BREEDS{
     position: absolute;
@@ -67,6 +69,6 @@ border-radius: 20px;
     text-align: center;
     letter-spacing: 2px;
     
-    color: #FFFFFF;
+    color: #FF868E;
 }
 

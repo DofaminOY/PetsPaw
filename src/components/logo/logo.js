@@ -4,7 +4,9 @@ import './logo.css'
 function Logo() {
   return (
     <div className="Logo">
-    <div className="PetsPaw"><div>PetsPaw</div></div>
+    
+    <div className="PetsPaw"><div>PetsPaw</div>
+    </div>
     
     
 

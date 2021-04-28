@@ -1,3 +1,11 @@
+.MaskGroup0{
+    position: absolute;
+    width: 138px;
+    height: 198px;
+    left: 147px;
+    top: 340px;
+}
+
 .Rectangle22{
     position: absolute;
     width: 138px;
@@ -27,18 +35,18 @@
     height: 124.47px;
     left: 166px;
     top: 377px;
-    background: url(https://s3-alpha-sig.figma.com/img/a138/062a/2906848158817553f54df3d0dc9deb6d?Expires=1619395200&Signature=FS1dhaytavAwOu2kQUHl7fpLiZDE4ic5z-1tzbiwM92Us0D6w6cx08HWdbv0pmxESRTJNPrgsl9inRC1JtmiHxonGkL53TQSToYaA-gOMnMYLjlhye0WycStM~7pFNLHJanwfc4LmS5KyPs3xeMYlmhJOoeIHuka7OJIphAQM6yB6dFlCj-Obg8Zdc7xHfCA5sO-ZIPThm5fwS62~OXE2NIOmuOl32c1ynudz3TuQZ9gvXK3dX-mwbcqdjwJcDmalDck8ARr0dc~cSmzvaVPN01gO5abRK-AjEV7CL2SARRJWj4S8VI4XA0LeH76ud77EMSoPSt3D1michh9W-8JmA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA);    
+    background: url("../img/vote-table.png");    
     background-size: cover;  
 }
 .Rectangle24{
-    position: absolute;
-    width: 138px;
-    height: 36px;
-    left: 147px;
-    top: 548px;
-    
-    background: #FFFFFF;
-    border-radius: 10px;
+position: absolute;
+width: 138px;
+height: 36px;
+left: 147px;
+top: 548px;
+
+background: #FFFFFF;
+border-radius: 10px;
 }
 .VOTING{
     position: absolute;
@@ -60,10 +68,3 @@
     color: #FF868E;
 }
 
-.MaskGroup0{
-    position: absolute;
-width: 138px;
-height: 198px;
-left: 455px;
-top: 340px;
-}

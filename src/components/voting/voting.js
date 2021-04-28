@@ -11,6 +11,7 @@ function Voting () {
         <div className="vote-table"></div>
         <div className="Rectangle24"></div>
         <div className="VOTING">VOTING</div>
+        
         </>
     );
 }

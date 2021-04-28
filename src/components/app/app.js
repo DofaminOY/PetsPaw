@@ -5,6 +5,7 @@ import Voting from '../voting';
 import Breeds from '../breeds';
 import Gallery from '../gallery';
 import GirlAndPet from '../girl-and-pet';
+import VotingActive from '../voting-active';
 
 
 import './app.css';
@@ -17,6 +18,7 @@ export default class App extends Component {
         return (
           
         <div className="app"> 
+         
         <div className="group25"></div>
         <Voting/>
         <Breeds/>
@@ -27,7 +29,7 @@ export default class App extends Component {
         <div className="DogsAPI">Lets start using The Dogs API</div>
               
         <Logo/>
-        <GirlAndPet/>
+        <VotingActive/>
         
 
         </div>
