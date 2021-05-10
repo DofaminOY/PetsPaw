@@ -1,22 +1,22 @@
-.Group38{
-    /* Group 38 */
+.Group39{
+/* Group 39 */
 
 
 position: absolute;
 width: 640px;
 height: 60px;
 left: 750px;
-top: 592px;
+top: 662px;
 }
-.time1Group38{
-    /* 22:35 */
+.time1Group39{
+/* 22:27 */
 
 
 position: absolute;
 width: 41px;
 height: 24px;
 left: 775px;
-top: 610px;
+top: 680px;
 
 font-family: Jost;
 font-style: normal;
@@ -28,28 +28,28 @@ line-height: 24px;
 
 color: #1D1D1D;
 }
-.Rectangle55Group38{
-    /* Rectangle 55 */
+.Rectangle55Group39{
+/* Rectangle 55 */
 
 
 position: absolute;
 width: 61px;
 height: 30px;
 left: 765px;
-top: 607px;
+top: 677px;
 
 background: #FFFFFF;
 border-radius: 5px;
 }
-.ImageID1Group38{
-    /* Image ID: fQSunHvl8 was added to Favourites */
+.ImageID1Group39{
+/* Image ID: HJd0XecNX was added to Likes */
 
 
 position: absolute;
-width: 316px;
+width: 288px;
 height: 24px;
 left: 846px;
-top: 610px;
+top: 680px;
 
 font-family: Jost;
 font-style: normal;
@@ -61,32 +61,32 @@ line-height: 24px;
 
 color: #8C8C8C;
 }
-.Rectangle54Group38{
-    /* Rectangle 54 */
+.Rectangle54Group39{
+/* Rectangle 54 */
 
 
 position: absolute;
 width: 640px;
 height: 60px;
 left: 750px;
-top: 592px;
+top: 662px;
 
 background: #F8F8F7;
 border-radius: 10px;
 }
-.Vector348Group38{
-/* Vector 348 (Stroke) */
+.Vector348Group39{
+/* Vector (Stroke) */
 
 
 position: absolute;
 left: 93.75%;
 right: 4.86%;
-top: 68.11%;
-bottom: 29.96%;
+top: 75.78%;
+bottom: 22%;
 
-background: #FF868E;
+background: #97EAB9;
 
-background: url("../img/HeartSmall.png");
+background: url("../img/SmileSmall.png");
 
 background-size: cover; 
 

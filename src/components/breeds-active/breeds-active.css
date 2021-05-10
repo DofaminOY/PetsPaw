@@ -1,0 +1,245 @@
+.Rectangle30BreedsActive{
+    /* Rectangle 30 */
+
+
+position: absolute;
+width: 680px;
+height: 850px;
+left: 730px;
+top: 100px;
+
+background: #FFFFFF;
+border-radius: 20px;
+}
+.BreedsActiveGroup27{
+  /* Group 27 */
+
+
+position: absolute;
+width: 143px;
+height: 40px;
+left: 800px;
+top: 120px;  
+}
+.BREEDSGroup27{
+    /* BREEDS */
+
+
+position: absolute;
+width: 83px;
+height: 30px;
+left: 830px;
+top: 125px;
+
+font-family: Jost;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+
+text-align: center;
+letter-spacing: 2px;
+
+color: #FFFFFF;
+}
+.BreedsActiveGroup27Rectangle24{
+   /* Rectangle 24 */
+
+
+position: absolute;
+width: 143px;
+height: 40px;
+left: 800px;
+top: 120px;
+
+background: #FF868E;
+border-radius: 10px; 
+}
+
+.BREEDSGroup41{
+    /* Group 41 */
+
+
+position: absolute;
+width: 226px;
+height: 40px;
+left: 953px;
+top: 120px;
+
+}
+
+.BREEDSAllbreeds{
+    /* All breeds */
+
+
+position: absolute;
+width: 70px;
+height: 24px;
+left: 963px;
+top: 128px;
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+
+color: #8C8C8C;
+}
+.BREEDSArrowLeft2{
+/* arrow left 2 */
+
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 1157px;
+top: 146px;
+
+transform: rotate(-90deg);
+
+}
+.BREEDSArrowLeft2Group{
+/* Vector */
+
+
+position: absolute;
+left: 0%;
+right: 43%;
+top: 78.5%;
+bottom: -78.5%;
+
+background: #8C8C8C;
+transform: rotate(-90deg);
+
+}
+
+.BREEDSRectangle24{
+  /* Rectangle 24 */
+
+
+position: absolute;
+width: 226px;
+height: 40px;
+left: 953px;
+top: 120px;
+
+background: #F8F8F7;
+
+border-radius: 10px;
+}
+
+.BREEDSRectangle24Left{
+  /* Rectangle 24 */
+
+
+position: absolute;
+width: 101px;
+height: 40px;
+left: 1189px;
+top: 120px;
+
+background: #F8F8F7;
+border-radius: 10px;
+}
+.BREEDSLimit10{
+  /* Limit: 10 */
+
+
+position: absolute;
+width: 59px;
+height: 24px;
+left: 1199px;
+top: 128px;
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+
+color: #8C8C8C;
+}
+
+.BREEDSGroup98{
+  /* Group 98 */
+
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1300px;
+top: 120px;
+}
+.BREEDSGroup98Vector{
+/* Vector (Stroke) */
+
+
+position: absolute;
+left: 91.04%;
+right: 7.68%;
+top: 14.44%;
+bottom: 83.33%;
+
+background: url("../img/upAB.png");
+
+background-size: cover; 
+}
+.BREEDSGroup98Rectangle46{
+ /* Rectangle 46 */
+
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1300px;
+top: 120px;
+
+background: #F8F8F7;
+border-radius: 10px; 
+}
+
+.BREEDSGroup97{
+/* Group 97 */
+
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1350px;
+top: 120px;
+}
+.BREEDSGroup97Vector{
+/* Vector (Stroke) */
+
+
+position: absolute;
+left: 94.51%;
+right: 4.2%;
+top: 14.44%;
+bottom: 83.33%;
+
+
+
+background: url("../img/unAB.png");
+
+background-size: cover; 
+}
+.BREEDSGroup97Rectangle45{
+/* Rectangle 45 */
+
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1350px;
+top: 120px;
+
+background: #F8F8F7;
+border-radius: 10px;
+}

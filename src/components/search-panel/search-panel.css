@@ -1,0 +1,81 @@
+.Group26{
+    /* Group 26 */
+
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1150px;
+top: 40px;
+}
+.SearchForBreeds{
+    /* Search for breeds by name */
+
+
+position: absolute;
+width: 229px;
+height: 30px;
+left: 750px;
+top: 45px;
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+
+
+color: #8C8C8C;
+}
+.Rectangle21SearchPanel{
+  /* Rectangle 21 */
+
+
+position: absolute;
+width: 470px;
+height: 60px;
+left: 730px;
+top: 30px;
+
+background: #FFFFFF;
+border-radius: 20px;  
+}
+.Rectangle23SearchPanel{
+  /* Rectangle 23 */
+
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1150px;
+top: 40px;
+
+background: #FBE0DC;
+border-radius: 10px;
+}
+.Group26SearchPanel{
+/* search */
+
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1160px;
+top: 50px;
+
+}
+.Group26SearchPanelVector{
+  /* Vector */
+
+
+position: absolute;
+left: 1.73%;
+right: 1.73%;
+top: 0%;
+bottom: 0%;
+background: url("../img/SearchPanel.png");
+
+background-size: cover; 
+
+}

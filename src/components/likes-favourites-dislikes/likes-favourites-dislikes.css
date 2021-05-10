@@ -1,0 +1,86 @@
+.LikesRectangle29{
+/* Rectangle 29 */
+
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 1210px;
+top: 30px;
+
+background: #FFFFFF;
+border-radius: 20px;
+}
+.LikesRectangle29Vector{
+/* Vector (Stroke) */
+
+
+position: absolute;
+left: 85.07%;
+right: 12.85%;
+top: 5%;
+bottom: 91.67%;
+
+background: url("../img/Likes.png");
+
+background-size: cover;
+}
+
+
+.FavouritesRectangle28{
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 1280px;
+top: 30px;
+
+background: #FFFFFF;
+border-radius: 20px;
+}
+
+.FavouritesRectangle28Vector{
+    /* Vector 348 (Stroke) */
+
+
+position: absolute;
+left: 89.93%;
+right: 7.99%;
+top: 5.22%;
+bottom: 91.89%;
+
+background: url("../img/Favourites.png");
+
+background-size: cover;
+}
+
+.DislikesRectangle27{
+/* Rectangle 27 */
+
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 1350px;
+top: 30px;
+
+background: #FFFFFF;
+border-radius: 20px;
+}
+
+.DislikesRectangle27Vector{
+    /* Vector (Stroke) */
+
+
+position: absolute;
+left: 94.79%;
+right: 3.12%;
+top: 5%;
+bottom: 91.67%;
+
+background: url("../img/Dislikes.png");
+
+background-size: cover;
+}

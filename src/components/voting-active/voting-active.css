@@ -8,43 +8,7 @@
     background: #FFFFFF;
     border-radius: 20px;  
 }
-.Rectangle24Active{
-position: absolute;
-width: 40px;
-height: 40px;
-left: 750px;
-top: 120px;
 
-background: #FBE0DC;
-border-radius: 10px;
-}
-.arrowleft1{
-/* arrow left 1 */
-
-
-position: absolute;
-width: 20px;
-height: 20px;
-left: 760px;
-top: 130px;
-}
-
-.Vector{
-    /* Vector */
-
-    
-    position: absolute;
-    left: 21.5%;
-    right: 21.5%;
-    top: 0%;
-    bottom: 0%;
-
-    background: #FF868E;
-    background: url('../img/Vector.png');
-    background-size: cover; 
-
-
-}
 .Group27{
     /* Group 27 */
 

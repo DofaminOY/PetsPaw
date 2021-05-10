@@ -1,0 +1,43 @@
+.Rectangle24Active{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 750px;
+    top: 120px;
+    
+    background: #FBE0DC;
+    border-radius: 10px;
+}
+    /* Rectangle 24 */
+    
+    
+    
+
+    .ActiveVector{
+        /* Vector */
+    
+        
+        position: absolute;
+        left: 21.5%;
+        right: 21.5%;
+        top: 0%;
+        bottom: 0%;
+    
+        
+        background: url('../img/Vector.png');
+        background-size: cover; 
+    
+    
+    }
+    
+   
+    .ActiveArrowleft1{
+        /* arrow left 1 */
+        
+        
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        left: 760px;
+        top: 130px;
+    }
